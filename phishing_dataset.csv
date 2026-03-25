@@ -1,0 +1,21 @@
+text,label
+"Click here to verify your account http://secure-login-paypal.com",phishing
+"Your bank account has been suspended, login immediately http://fakebank.com",phishing
+"Meeting scheduled at 3pm tomorrow",legitimate
+"Reminder: submit your assignment by tonight",legitimate
+"Urgent! Your email will be deactivated, verify now http://email-secure.net",phishing
+"Hi team, please review the attached report",legitimate
+"Confirm your identity to avoid suspension http://verify-now.com",phishing
+"Lunch at 12?",legitimate
+"Update your password immediately http://account-security-alert.com",phishing
+"Project discussion moved to Friday",legitimate
+"You have won a prize! Claim now http://free-gift.xyz",phishing
+"Please find the invoice attached",legitimate
+"Your account is locked, click here to unlock http://unlock-now.com",phishing
+"Weekly meeting agenda attached",legitimate
+"Act now! Limited time offer http://deal-click.top",phishing
+"Can we reschedule our call?",legitimate
+"Security alert: unusual login detected http://login-alert.com",phishing
+"Happy birthday! Have a great day!",legitimate
+"Verify your payment details http://payment-check.net",phishing
+"Let's catch up this weekend",legitimate
